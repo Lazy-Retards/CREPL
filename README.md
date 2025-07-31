@@ -1,4 +1,4 @@
-CREPL: An interactive REPL for C.
+# CREPL: An interactive REPL for C.
 ## Features:
 - Auto-indentation when opening braces
 - Modular command system (I encourage you to add your own! It requires no use of any functions of CREPL unless you wanna interact with it directly.)
